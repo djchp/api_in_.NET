@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YRGGSDRofiykQXQu7lPRZa+lTLC9qABp8SHJ5xCW6gc=",
+  "Source": "webapinetmongo",
+  "BasePath": "_content/webapinetmongo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
